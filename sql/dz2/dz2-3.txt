@@ -1,0 +1,4 @@
+команды для командной строки mysql
+
+mysqldump example -r dz2-3.sql
+mysql sample < dz2-3.sql
